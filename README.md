@@ -166,9 +166,7 @@ git push origin main
 ---
 
 ## 👤 লেখক (Author)
-- **Nion Roy** - [GitHub Profile](https://github.com/nion-roy)
-- ইমেইল: `nion.roy22@gmail.com`
-
----
+- **Mirza Shakil Hasan Rabby** - [GitHub Profile](https://github.com/rabbymirza)
+- ইমেইল: rabbymirzashakilhasan@gmail.com
 ⭐ প্রজেক্টটি ভালো লাগলে গিটহাবে একটি স্টার দিতে পারেন!
 
